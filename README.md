@@ -9,7 +9,7 @@
 
 ---
 
-## 🙋‍♂️ Professional Profile
+## Professional Profile
 I am an **AI/ML Master's Student** at **Brandenburg University of Technology (BTU) Cottbus-Senftenberg, Germany**, with multi-year professional software engineering and team leadership experience. My technical focus spans Large Language Models (LLMs), Natural Language Processing (NLP), MLOps, and resource-efficient Computer Vision.
 
 My approach combines software development practices with AI research—building end-to-end RAG architectures, low-latency edge computer vision models, and scalable backend pipelines.
@@ -25,7 +25,7 @@ My approach combines software development practices with AI research—building 
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Team Lead in Digital AdOps — SEBPO (Service Engine Bangladesh Ltd.)
 *Jan 2022 – Feb 2024* | *Dhaka, Bangladesh*
@@ -41,7 +41,7 @@ My approach combines software development practices with AI research—building 
 
 ---
 
-## 🤝 Voluntary Project Experience
+## Voluntary Project Experience
 
 ### Student Project Contributor (Software Engineering) — 3ZeroAI
 *Sep 2025 – Dec 2025* | *Berlin, Germany*
@@ -52,22 +52,22 @@ My approach combines software development practices with AI research—building 
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### 🤖 AI Consular Support Chatbot (RAG, GraphRAG & Agentic RAG)
+### AI Consular Support Chatbot (RAG, GraphRAG & Agentic RAG)
 *An intelligent, multi-architecture conversational assistant for automated consular information processing.*
 * Evaluated **Standard RAG**, **GraphRAG**, and **Agentic RAG** architectures regarding retrieval latency, accuracy, and hallucination reduction.
 * Integrated **FAISS vector indices**, **Graph Databases**, and dense embeddings (**Hugging Face** / **OpenAI**) for low-latency context retrieval.
 * **Tech**: `Python` | `Streamlit` | `OpenAI API` | `Cohere AI` | `FAISS` | `LlamaIndex` | `Haystack`
 
-### 👁️ Lightweight On-Device Facial Emotion Recognition
+### Lightweight On-Device Facial Emotion Recognition
 *A resource-efficient Computer Vision pipeline optimized for real-time facial emotion recognition on edge devices.*
 * Trained a MobileNetV2 CNN architecture on FER2013, achieving high precision with low memory usage and parameter count.
 * Integrated **YOLO** and **OpenCV** for real-time face detection, bounding box extraction, and dynamic frame preprocessing.
 * Applied data augmentation with **Keras** and **NumPy** to improve generalization under low-light and noise conditions.
 * **Tech**: `Python` | `TensorFlow` | `MobileNetV2` | `OpenCV` | `YOLO` | `Keras`
 
-### 🛒 MERN Stack E-Commerce Platform
+### MERN Stack E-Commerce Platform
 *A full-stack e-commerce application featuring customer storefronts and administrative management suites.*
 * Implemented secure user authentication, role-based authorization, order processing, and administrative dashboards.
 * Designed modular REST APIs using **Node.js** and **Express.js** backed by **MongoDB** document schemas.
@@ -75,21 +75,21 @@ My approach combines software development practices with AI research—building 
 
 ---
 
-## 🎓 Education
+## Education
 * **M.Sc. in Artificial Intelligence** — Brandenburg University of Technology Cottbus-Senftenberg, Germany (*Sep 2023 – Present*)
   * *Focus*: LLMs, Neural Signal Analysis, Explainable ML, Causal Data Analysis, Cognitive Systems & Brain-Computer Interfaces.
 * **B.Sc. in Computer Science & Engineering** — North South University, Dhaka, Bangladesh (*Mar 2013 – Apr 2018*)
 
 ---
 
-## 🌐 Languages
+## Languages
 * **English**: C1 (Proficient)
 * **German**: B2 (Upper-Intermediate)
 * **Bengali**: Native
 
 ---
 
-## 🎯 Opportunities & Collaboration
+## Opportunities & Collaboration
 I am actively seeking **AI/ML Engineering**, **Generative AI**, **Computer Vision**, and **MLOps** positions, working student roles, or research collaborations. Feel free to get in touch!
 
 * **Email**: [iqbalahmed.germany@gmail.com](mailto:iqbalahmed.germany@gmail.com)
