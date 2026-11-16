@@ -16,7 +16,7 @@ My approach combines software development practices with AI research—building 
 
 ---
 
-## 🛠️ Core Skills
+## Skills
 * **Programming**: Python, Java, JavaScript, C, C++
 * **AI & Machine Learning**: PyTorch, TensorFlow, OpenCV, scikit-learn, Keras, YOLO
 * **LLM & Generative AI**: OpenAI API, LlamaIndex, Haystack, Vector Databases (FAISS), Graph Databases, Cohere AI, Jina AI
