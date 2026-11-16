@@ -2,7 +2,6 @@
 <h3 align="center">AI/ML Engineer | LLM & Generative AI • Computer Vision • MLOps</h3>
 
 <p align="center">
-  <a href="https://iqbal-ahmed.web.app/"><img src="https://img.shields.io/badge/Portfolio-iqbal--ahmed.web.app-blue?style=flat-square&logo=googlechrome" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/iiqbal-aahmed"><img src="https://img.shields.io/badge/LinkedIn-iiqbal--aahmed-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:iqbalahmed.germany@gmail.com"><img src="https://img.shields.io/badge/Email-iqbalahmed.germany%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email"/></a>
   <a href="https://github.com/Md-Iqbal-Ahmed"><img src="https://img.shields.io/badge/GitHub-Md--Iqbal--Ahmed-181717?style=flat-square&logo=github" alt="GitHub"/></a>
